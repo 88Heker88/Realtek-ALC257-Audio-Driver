@@ -59,6 +59,8 @@ A stripped-down, bloat-free audio driver package for **Lenovo LOQ (83GS)** lapto
 
 ---
 
-## Disclaimer
+## License & Disclaimer
 
-All driver binaries (`RTKVHD64.sys`, `IntcAudioBus.sys`, `IntcOED.sys`, and associated firmware files) are the property of **Realtek Semiconductor Corp.**, **Intel Corporation**, and **Lenovo**. This repository is maintained strictly for personal backup and troubleshooting purposes. Use at your own risk.
+The `install.bat` script and documentation in this repository are licensed under the **MIT License**. 
+
+All driver binaries (`RTKVHD64.sys`, `IntcAudioBus.sys`, `IntcOED.sys`) and associated firmware files belong to their respective copyright holders (**Realtek Semiconductor Corp.**, **Intel Corporation**, and **Lenovo**) and are not covered by this license. This repository is maintained strictly for personal backup and troubleshooting purposes—use at your own risk.
